@@ -1,4 +1,4 @@
-# removechineseapp
+# DetectMaliciousApps
 
 A new Flutter application.
 
